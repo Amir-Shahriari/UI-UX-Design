@@ -10,8 +10,6 @@ This repository contains the source code and assets for a UI/UX design project f
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Requirements](#requirements)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
 
 
 ## Overview
@@ -71,18 +69,4 @@ npm start
 - A modern code editor, such as VS Code.
 - A mobile simulator or device for testing.
 
-## How to Use
-
-1. Clone the repository and install dependencies as described in the [Getting Started](#getting-started) section.
-2. Run the application locally using `npm start`.
-3. Preview the app and explore the design mockups included in `Mockups Mobile App.pdf`.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push the branch to your fork.
-4. Submit a pull request with a detailed description of your changes.
 
